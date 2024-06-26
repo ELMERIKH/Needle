@@ -2,6 +2,7 @@ Greetings
 ----------
 
 ![alt text](<2024-06-26 08_25_55-Select Windows PowerShell.png>)
+
 after inction in session run with : Needle
 
 bypass AMSI with oneliner :  
